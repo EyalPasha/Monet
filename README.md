@@ -1,4 +1,5 @@
 # Monet
+![image](https://github.com/EyalPasha/Monet/assets/51478907/9e19b66d-8986-4197-a8fa-d1edbc776527)
 The Challenge: A GAN consists of at least two neural networks: a generator model and a discriminator model. The generator is a neural network that creates the images. For the competition, we need to generate images in the style of Monet. This generator is trained using a discriminator.
 The two models will work against each other, with the generator trying to trick the discriminator, and the discriminator trying to accurately classify the real vs. generated images.
 
